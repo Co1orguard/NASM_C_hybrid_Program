@@ -4,9 +4,9 @@
 This project is part of the Tennessee Technological University CSC-3410 Assignment 4. It is written in both 32-bit NASM assembly and C. The purpose of this program is to re-cap the entirety of the semester's capabilities. 
 
 Its features are:
-- *Add two integers together *
+- *Add two integers together*
 - *Detect a palindrome (C as the driver and ASM as the function)*
-- *Calculate the factorial of a number (ASM as the driver and C as the function) *
+- *Calculate the factorial of a number (ASM as the driver and C as the function)*
 - *Detect a palindrome (ASM as the driver and C as the function)*
 
 
